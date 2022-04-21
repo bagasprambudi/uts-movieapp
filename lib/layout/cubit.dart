@@ -28,7 +28,7 @@ class MovieCubit extends Cubit<MovieStates> {
     ),
     BottomNavigationBarItem(
       icon: Icon(
-        Icons.movie,
+        Icons.grade,
         color: Colors.black,
       ),
       label: 'Top Rate',
@@ -36,7 +36,7 @@ class MovieCubit extends Cubit<MovieStates> {
     ),
     BottomNavigationBarItem(
       icon: Icon(
-        Icons.movie,
+        Icons.launch,
         color: Colors.black,
       ),
       label: 'UpComing',

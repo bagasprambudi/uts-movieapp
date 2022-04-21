@@ -42,10 +42,10 @@ Halaman Ketiga
 Halaman Keempat
 ![keempat](img/4.jpeg)
 
-Halaman Show
-![show](img/showmore.jpeg)
-![show2](img/showless.jpeg)
-
 Halaman Like
 ![like](img/cobalike.jpeg)
 ![like2](img/like.jpeg)
+
+Halaman Show
+![show](img/showmore.jpeg)
+![show2](img/showless.jpeg)
